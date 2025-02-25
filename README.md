@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou a Juliana
 **Explorando o universo da tecnologia, criando soluções no desenvolvimento web e transformando ideias em realidade!**
 ## 👩‍💻 Sobre Mim
-- 🎓 Técnico em Desenvolvimento de Sistemas no Senai.
+- 🎓 Técnica em Desenvolvimento de Sistemas no Senai.
 - 📚 Estudante na Faculdade em Análise e Desenvolvimento de Sistemas no Senai Sorocaba.
 - 🚀 Desenvolvendo projetos como sites e sistemas para adicionar ao portfólio.
-- 🌟 Áreas de Interesse: Front-end.
+- 🌟 Áreas de Interesse: Front-end e Gestão de Projetos.
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
