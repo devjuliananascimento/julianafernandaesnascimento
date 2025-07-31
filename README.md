@@ -10,13 +10,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-## 🌟 Projetos em Destaque
-- [Site do Hospital Vitalis]([https://github.com/julianafernandaesnascimento/hospitalvitalis.git]): Sistema para pacientes, médicos e recepção.
-- [Site da Oficina de Carros]([https://github.com/julianafernandaesnascimento/fast_car.git]): Sistema para uma oficina mecânica de carros
 
 ## 📊 Estatísticas GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=julianafernandaesnascimento&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianafernandaesnascimento&layout=compact&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=devjuliananascimento&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliananascimento&layout=compact&theme=radical)
 
 ## 📬 Contato
 - 💌 E-mail: [estudos.juliananascimento@gmail.com](estudos.juliananascimento@gmail.com)
