@@ -35,8 +35,9 @@
 
 
 ## 📊 Estatísticas GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=devjuliananascimento&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliananascimento&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuliananascimento&layout=compact&theme=radical" alt="Linguagens usadas">
+</p>
 
 ## 📬 Contato
 - 💌 E-mail: [estudos.juliananascimento@gmail.com](estudos.juliananascimento@gmail.com)
