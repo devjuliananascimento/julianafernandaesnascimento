@@ -15,8 +15,8 @@
 - [Site da Oficina de Carros]([https://github.com/julianafernandaesnascimento/fast_car.git]): Sistema para uma oficina mecânica de carros
 
 ## 📊 Estatísticas GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?devjuliananascimento&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?devjuliananascimento&layout=compact&theme=radical)
 ## 📬 Contato
 - 💌 E-mail: [estudos.juliananascimento@gmail.com](estudos.juliananascimento@gmail.com)
 
