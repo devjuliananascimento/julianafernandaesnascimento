@@ -6,17 +6,7 @@
 - 🚀 Desenvolvendo projetos como sites e sistemas para adicionar ao portfólio.
 - 🌟 Áreas de Interesse: Banco de Dados e Gestão de Projetos.
 ## 🛠️ Tecnologias e Ferramentas utilizadas
-### 💻 Front-end
-![HTML5](...) ![CSS3](...) ![JavaScript](...) ![TypeScript](...) ![React](...) ![Bootstrap](...) ![TailwindCSS](...)
 
-### ⚙️ Back-end
-![Node.js](...) ![Express](...)
-
-### 🗃️ Banco de Dados
-![MongoDB](...) ![MySQL](...)
-
-### 🛠️ Ferramentas
-![Git](...) ![GitHub](...) ![VS Code](...) ![Figma](...) ![Postman](...) ![Insomnia](...)
 ### 💻 Front-end
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -49,7 +39,7 @@
 
 ## 📬 Contato
 - 💌 E-mail: [estudos.juliananascimento@gmail.com](estudos.juliananascimento@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/juliana-nascimento-1992722a3/](https://www.linkedin.com/in/juliana-nascimento-1992722a3/)
+- 💼 LinkedIn: [LinkedIn-JulianaNascimento](https://www.linkedin.com/in/juliana-nascimento-1992722a3/)
 
 
 
