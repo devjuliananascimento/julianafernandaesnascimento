@@ -2,9 +2,9 @@
 **Explorando o universo da tecnologia, criando soluções no desenvolvimento web e transformando ideias em realidade!**
 ## 👩‍💻 Sobre Mim
 - 🎓 Técnica em Desenvolvimento de Sistemas no Senai.
-- 📚 Estudante na Faculdade em Análise e Desenvolvimento de Sistemas no Senai Sorocaba.
+- 📚 Estudante na Faculdade em Análise e Desenvolvimento de Sistemas no Senai.
 - 🚀 Desenvolvendo projetos como sites e sistemas para adicionar ao portfólio.
-- 🌟 Áreas de Interesse: Banco de Dados e Gestão de Projetos.
+- 🌟 Áreas de Interesse: BackEnd e Gestão de Projetos.
 ## 🛠️ Tecnologias e Ferramentas utilizadas
 
 ### 💻 Front-end
